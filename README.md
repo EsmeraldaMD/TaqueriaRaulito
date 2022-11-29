@@ -14,7 +14,10 @@ Las especificaciones pedidas son las siguientes:
 2. Proceso
 -  int cantidad, tipo, cuenta, pago, cambio.
 3. Salida 
-
+~~~
+Gracias por su compra!
+Su entrega se realizará en ----- en 30 min.
+~~~
 
 ## Etapa 3 Diseño de la solución 
 
